@@ -222,7 +222,7 @@ See `requirements.txt` for exact versions.
 
 ## 🎓 How It Was Built
 
-This project was created for a UC Berkeley hackathon. The development process:
+This project was created for a SacHacks VII hackathon, 2026. The development process:
 
 1. **Data Selection** - Chose PlantVillage dataset + custom basil data
 2. **Preprocessing** - Organized 66K images into train/val/test splits
